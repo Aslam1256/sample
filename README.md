@@ -1,2 +1,2 @@
 # sample
-sample project
+sample project is javascript
